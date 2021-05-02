@@ -9,3 +9,4 @@ npm run dev
 yarn
 yarn dev
 ```
+Checkout the Live Hosted Link: https://next-js-landing-page.netlify.app/
